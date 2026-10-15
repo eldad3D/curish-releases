@@ -1,0 +1,7 @@
+{
+ "desktop": {
+  "version": "0.4.0",
+  "manifest": "manifests/0.4.0.json",
+  "notes": "\u2022 Show on, per album: TV \u00b7 Website \u00b7 Screensaver \u00b7 Wallpapers toggles on the album bar (and right-click \u203a Show on) \u2192 albums.json \"show\". Right-click \u203a Details\u2026: Hebrew name / note, when (+ Hebrew), place.\n\u2022 Publish (top bar): reads the Library's outputs.json, ticks the outputs whose albums changed since their last publish, runs their command (asks once before a new one), shows done / the error.\n\u2022 Words on this computer: Ollama + Gemma 3 (12B on a big graphics card like an RTX 4090, 4B on an 8 GB laptop card or without one) write titles / stories EN + HE from Cullect's data + a small picture. Missing? One dialog offers the download (size, offline, nothing leaves the PC) with progress + Stop. AI menu: write missing words for the selection / this shoot or album / the whole Library, with n / total + Stop. No online AI and no API keys anywhere.\n\u2022 Drag photos in from Explorer (files or folders): copied into <YYYY-MM> Added with a .pnfo (id from name + size + EXIF time, camera data from EXIF); already there = skipped."
+ }
+}
