@@ -1,7 +1,7 @@
 {
  "desktop": {
-  "version": "0.6.0",
-  "manifest": "manifests/0.6.0.json",
-  "notes": "\u2022 Colour spectrum: shows how many photos in view have each colour - bright with taller ticks where there are many, faint where there are none (the colour filter itself never narrows it). Double-click zooms in: your range (or, with none, the colours your photos have) fills the bar, for a finer pick among close colours; double-click again for the whole spectrum. Right-click: any colour.\n\u2022 Alt+F: the selected photos into the album you last added to (remembered after a restart); no album yet = the album menu. Photos already in it stay as they are.\n\u2022 Send to Curish (from Cullect): opens the photo in Edit, in the Curish window that is already open."
+  "version": "0.6.1",
+  "manifest": "manifests/0.6.1.json",
+  "notes": "\u2022 Crop, as in Cullect: dragging just outside the frame turns the frame over a still photo (hold E to turn the photo instead). The label rides on the frame's top edge, and a free frame close to a standard shape shows \u2248 3:2 there - click it for exactly that shape (green \u2713 3:2 when it already is). Pushing the frame into the photo's edge slides it along instead of stopping it, and a frame on the edge no longer jumps on the next drag.\n\u2022 Crop bar on the photo: its shapes and Landscape / Portrait work now; Enter = done, Esc = cancel (back to how the frame was when you opened it).\n\u2022 C in the Library: opens Edit straight into the crop frame.\n\u2022 Letters never jump to another photo any more (E in Edit used to); the Keys list shows every crop key."
  }
 }
