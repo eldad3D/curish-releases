@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.1",
-  "manifest": "manifests/0.7.1.json",
-  "notes": "\u2022 Slideshow (as Cullect): your favourites and albums, with your edits, full screen - slow zoom, soft fades, never cut in half. The new \u25b6 button by Publish, F11, or an album's right-click \u2192 *Slideshow*. Mouse or key: stop.\n\u2022 Starts by itself after 1 minute without mouse or keyboard (Settings \u2192 *Slideshow*: minutes, off, other photos too).",
-  "sig": "ZyURKaw5zm9WALyoPxv94PTw/qtx2RSCdZPQL8cZZ+7yQXP35dshzywM8JUm4gGABkub2hYC1uSlFVUM94x3Aw=="
+  "version": "0.7.2",
+  "manifest": "manifests/0.7.2.json",
+  "notes": "\u2022 Slideshow (as Cullect): mouse wheel or \u2190 \u2192 = previous / next photo (a quick fade), \u2193 = show this photo in Explorer. It fades in from your screen, never a black flash.",
+  "sig": "5mhjYB4ebbVfQwWn3nMrtlEjbGh0zCOf+Stem6oWKYhx7nZ+OEPDGlDNYOk/Lx2+Oq3jLBZEn/2KfKhM0215Cg=="
  }
 }
