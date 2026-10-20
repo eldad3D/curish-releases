@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.0",
-  "manifest": "manifests/0.7.0.json",
-  "notes": "\u2022 Faster: Canon photos make their thumbnails and previews about 2.5\u00d7 faster with far less memory; Saturation and Vibrance move twice as smoothly; rating, labels and albums stay quick in a big Library.\n\u2022 Welcome: an empty Library shows Add photos\u2026 / Add a folder\u2026 / Open a Library\u2026 (also in the Library \u25be menu) - Cullect is not needed to start.\n\u2022 Words for any photographer: Settings \u2192 *What you photograph* goes into the AI's words; Hebrew is a choice (*Also write titles and stories in Hebrew*).\n\u2022 AI helper: *Download AI models* in the app (one time, checked) instead of a developer tool.\n\u2022 Safer updates: only updates signed by Curish are installed.\n\u2022 Thumbnail cache keeps to 2 GB (oldest first); Settings shows its size with Clear.\n\u2022 Problems: a log file, and Settings \u2192 Copy diagnostic info / Open log folder. An edit that cannot be saved when you close is told, never lost quietly.\n\u2022 Edit: the toggle *Original* is now As shot (no crop, no adjustments - D); *Before* (hold B / Q) keeps your crop. Hold Q in the large view works; menus say Ctrl+B for the target album.\n\u2022 iPhone photos (HEIC) are named when they cannot be added; place names with ' work as filters; Settings \u2192 Licences.",
-  "sig": "2pQ/NHNZnt0EOBNR799QuDt12ZKVzL27dYwRfwXSeR/xZcMfURRB56H04iHs1oF66JDVLqF1RdeU+/TFlYQkDA=="
+  "version": "0.7.1",
+  "manifest": "manifests/0.7.1.json",
+  "notes": "\u2022 Slideshow (as Cullect): your favourites and albums, with your edits, full screen - slow zoom, soft fades, never cut in half. The new \u25b6 button by Publish, F11, or an album's right-click \u2192 *Slideshow*. Mouse or key: stop.\n\u2022 Starts by itself after 1 minute without mouse or keyboard (Settings \u2192 *Slideshow*: minutes, off, other photos too).",
+  "sig": "ZyURKaw5zm9WALyoPxv94PTw/qtx2RSCdZPQL8cZZ+7yQXP35dshzywM8JUm4gGABkub2hYC1uSlFVUM94x3Aw=="
  }
 }
