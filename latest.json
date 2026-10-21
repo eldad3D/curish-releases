@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.3",
-  "manifest": "manifests/0.7.3.json",
-  "notes": "\u2022 Copy (Ctrl+C, or right-click \u2192 Copy): one photo = the picture itself (paste into a chat, email or document), several = their files (paste in Explorer). Your edited version when there is one.\n\u2022 Keys on one A4 page (docs/Curish-keys-A4.pdf).",
-  "sig": "cV2Y+EWcR89xTOiuxqWONnnd/fOz2zKZnF4Ecixzl9gMHIAtiTUqlO8t5GzolYfSfd7FM/Yb79mDOSDDZY7KDg=="
+  "version": "0.7.4",
+  "manifest": "manifests/0.7.4.json",
+  "notes": "\u2022 Album covers always show: two albums sharing the same cover photo no longer leave one with the empty icon.",
+  "sig": "7SOgZrD8C8qTXKM+HzGAv9aq9mN0W9O3YtPiBrFGCos0JmEUtJw7K4r9pDxI0oB4tD2s6hv6ds3kCamtKSpuCw=="
  }
 }
