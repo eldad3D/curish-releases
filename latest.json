@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.2",
-  "manifest": "manifests/0.7.2.json",
-  "notes": "\u2022 Slideshow (as Cullect): mouse wheel or \u2190 \u2192 = previous / next photo (a quick fade), \u2193 = show this photo in Explorer. It fades in from your screen, never a black flash.",
-  "sig": "5mhjYB4ebbVfQwWn3nMrtlEjbGh0zCOf+Stem6oWKYhx7nZ+OEPDGlDNYOk/Lx2+Oq3jLBZEn/2KfKhM0215Cg=="
+  "version": "0.7.3",
+  "manifest": "manifests/0.7.3.json",
+  "notes": "\u2022 Copy (Ctrl+C, or right-click \u2192 Copy): one photo = the picture itself (paste into a chat, email or document), several = their files (paste in Explorer). Your edited version when there is one.\n\u2022 Keys on one A4 page (docs/Curish-keys-A4.pdf).",
+  "sig": "cV2Y+EWcR89xTOiuxqWONnnd/fOz2zKZnF4Ecixzl9gMHIAtiTUqlO8t5GzolYfSfd7FM/Yb79mDOSDDZY7KDg=="
  }
 }
