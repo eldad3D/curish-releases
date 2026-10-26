@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.4",
-  "manifest": "manifests/0.7.4.json",
-  "notes": "\u2022 Album covers always show: two albums sharing the same cover photo no longer leave one with the empty icon.",
-  "sig": "7SOgZrD8C8qTXKM+HzGAv9aq9mN0W9O3YtPiBrFGCos0JmEUtJw7K4r9pDxI0oB4tD2s6hv6ds3kCamtKSpuCw=="
+  "version": "0.7.5",
+  "manifest": "manifests/0.7.5.json",
+  "notes": "\u2022 Original card (details panel): the camera files (CR3 + JPG), their folder and drive, and whether they are connected now. Edit the original starts from the camera RAW (RAW as JPG), not the Library JPG or an edited copy; Show in folder shows it in Explorer. Found also when the drive got another letter (its serial number), when Cullect moved it inside the shoot (_saved, _keep\u2026) or on a backup; a file with the same name but another size is never used. Originals are only read.",
+  "sig": "sfX5J0K9DSkYtzG01Ooj+73jA/12Kz4cro47flZq6c4gIE4W49k/vRdJ+BGqCNYfheQlMkcQCS+h42HSN8ooDw=="
  }
 }
