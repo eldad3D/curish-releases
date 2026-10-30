@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.5",
-  "manifest": "manifests/0.7.5.json",
-  "notes": "\u2022 Original card (details panel): the camera files (CR3 + JPG), their folder and drive, and whether they are connected now. Edit the original starts from the camera RAW (RAW as JPG), not the Library JPG or an edited copy; Show in folder shows it in Explorer. Found also when the drive got another letter (its serial number), when Cullect moved it inside the shoot (_saved, _keep\u2026) or on a backup; a file with the same name but another size is never used. Originals are only read.",
-  "sig": "sfX5J0K9DSkYtzG01Ooj+73jA/12Kz4cro47flZq6c4gIE4W49k/vRdJ+BGqCNYfheQlMkcQCS+h42HSN8ooDw=="
+  "version": "0.7.6",
+  "manifest": "manifests/0.7.6.json",
+  "notes": "\u2022 Planily as a \"show on\" target for albums (next to TV, Website, Screensaver, Wallpapers).\n\u2022 Albums: two changes in the same moment no longer lose the later one; a Library file saved twice in a moment is noticed.",
+  "sig": "QInCAexHhFmH/Z1bY9HfPdloFt3bWdmuQYNKpKwcZF4XR2RZbdFdYhgwguE3FAKrBUA8Cnc1x9fDdlFrz7jmBw=="
  }
 }
