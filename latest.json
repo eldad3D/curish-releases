@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.6",
-  "manifest": "manifests/0.7.6.json",
-  "notes": "\u2022 Planily as a \"show on\" target for albums (next to TV, Website, Screensaver, Wallpapers).\n\u2022 Albums: two changes in the same moment no longer lose the later one; a Library file saved twice in a moment is noticed.",
-  "sig": "QInCAexHhFmH/Z1bY9HfPdloFt3bWdmuQYNKpKwcZF4XR2RZbdFdYhgwguE3FAKrBUA8Cnc1x9fDdlFrz7jmBw=="
+  "version": "0.7.7",
+  "manifest": "manifests/0.7.7.json",
+  "notes": "\u2022 AI words work when the original's drive is not connected: they use the photo's saved preview. A photo with no preview is skipped (the rest go on) and stays in Needs words - run again once its drive is connected.\n\u2022 Curish opens maximised.",
+  "sig": "+TBJ9Csz8Sfrp7aTPZtCdVghV7s3P1NrwDw97EdN07jdwHhGn4tkK4gMEJXXsUCT71hy4Hl89JHuDSkhkuC/BQ=="
  }
 }
