@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.7",
-  "manifest": "manifests/0.7.7.json",
-  "notes": "\u2022 AI words work when the original's drive is not connected: they use the photo's saved preview. A photo with no preview is skipped (the rest go on) and stays in Needs words - run again once its drive is connected.\n\u2022 Curish opens maximised.",
-  "sig": "+TBJ9Csz8Sfrp7aTPZtCdVghV7s3P1NrwDw97EdN07jdwHhGn4tkK4gMEJXXsUCT71hy4Hl89JHuDSkhkuC/BQ=="
+  "version": "0.7.8",
+  "manifest": "manifests/0.7.8.json",
+  "notes": "\u2022 Update to x.y (top bar) updates right away: it downloads, installs and restarts Curish - no more steps.\n\u2022 Settings fits small screens: it scrolls, and Save / Cancel are always in view.",
+  "sig": "xVnx8gIvZYad50gEG9JJqNRVCTcMxMttRwBerQ419UiLHXmnT6E7/dp8AM02epLNpkLqskEsykP9/5iG5hYRBA=="
  }
 }
