@@ -1,8 +1,8 @@
 {
  "desktop": {
-  "version": "0.7.8",
-  "manifest": "manifests/0.7.8.json",
-  "notes": "\u2022 Update to x.y (top bar) updates right away: it downloads, installs and restarts Curish - no more steps.\n\u2022 Settings fits small screens: it scrolls, and Save / Cancel are always in view.",
-  "sig": "xVnx8gIvZYad50gEG9JJqNRVCTcMxMttRwBerQ419UiLHXmnT6E7/dp8AM02epLNpkLqskEsykP9/5iG5hYRBA=="
+  "version": "0.7.9",
+  "manifest": "manifests/0.7.9.json",
+  "notes": "\u2022 Laptop screens: Curish opens fitted to the screen - the filter rows and buttons squeeze instead of pushing the details panel off the right edge.",
+  "sig": "q9XfONTD4zdOi2w/s4m/8o+BjM2s3X1uCUA9bO32gVJI4CnPNhpkhDE9FEca3ygjjlqzmqnEhgS/BA7T5yRwCA=="
  }
 }
